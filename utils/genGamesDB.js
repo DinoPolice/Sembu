@@ -19,7 +19,8 @@ const ECLIPSE_SYSTEMS = [
 	'SNES',
 	'PSX',
 	'SMS',
-	'GG'
+	'GG',
+        'NDS'
 ];
 
 /**
