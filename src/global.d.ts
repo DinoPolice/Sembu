@@ -1,4 +1,4 @@
-import Eclipse from './eclipse/main';
+import Sembulance from './sebulance/master';
 import Dialogs from './ui/components/dialogs/index';
 
 declare module '*';
