@@ -1,6 +1,6 @@
 {
-	"short_name": "Eclipse",
-	"name": "Eclipse",
+	"short_name": "sembulance",
+	"name": "Sembulance",
 	"icons": [{
 			"src": "favicon.ico",
 			"sizes": "64x64 32x32 24x24 16x16",
