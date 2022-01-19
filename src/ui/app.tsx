@@ -23,7 +23,7 @@ export default function App(props: {
 			<div className={`app${props.standalone ? ' standalone' : ''}`}>
 			<div className="statusbar" />
 			<div className="dialog-zone" />
-			{!(url.protocol === 'http:' && (url.hostname === 'eclipseemu.me' || url.hostname === 'zenithdevs.github.io')) ? 
+			{!(url.protocol === 'http:' && (url.hostname === 'dinopolice.github.io' || url.hostname === 'dinopolice.github.io')) ? 
 				<>
 					<Route exact path="/" component={Library} />
 					<Route exact path="/repos" component={Repos} />
